@@ -1,0 +1,17 @@
+# /_data/authors.yml
+ReportCards:
+  name        : "ReportCards"
+  bio         : "Mapping Algorithms"
+  website     : "/"
+  avatar      : "/assets/logo_mapping.png"
+  links:
+    - label: "Overview"
+      url: /
+    - label: "Benchmarks"
+      url: /data/
+    - label: "Algorithms"
+      url: /algorithms/
+    - label: "Evaluation"
+      url: /evaluation/
+    # - label: "Leaderboard"
+    #   url: https://google.com

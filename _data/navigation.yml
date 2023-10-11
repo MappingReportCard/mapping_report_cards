@@ -1,0 +1,11 @@
+main:
+  - title: "Overview"
+    url: /
+  - title: "Benchmarks"
+    url: /benchmarks/
+  - title: "Algorithms"
+    url: /algorithms/
+  - title: "Evaluation"
+    url: /evaluation/
+  # - title: "Leaderboard"
+  #   url: /leaderboard/
